@@ -147,7 +147,7 @@ function MenuPage() {
       </div>
       <div className="space-y-32">
         <MenuSection
-          title="Menu Sushi & Maki"
+          title="Menu Sushis & Makis"
           subtitle="Les Nigiri-Sushis et Rouleaux-Maki"
           items={[
             { name: "Menu Sushi", price: "19", desc: "8 sushis + 6 makis : Thon, Saumon, Poisson blanc, Maquereau, Seiche, Crevette cuite" },
